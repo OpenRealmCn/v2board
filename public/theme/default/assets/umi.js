@@ -16668,7 +16668,7 @@
                         paddingTop: 50
                     }
                 }, o.a.createElement("a", {
-                    href: "https://github.com/wyx2685/v2board"
+                    href: "https://github.com/OpenRealmCn/v2board"
                 }, "v2board"), " is best.")
             }
         }
